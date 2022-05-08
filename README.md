@@ -1,1 +1,1 @@
-Features nice CSS transitions, icons and a pop-up modal.
+Features nice CSS transitions, font-awesome icons and a pop-up modal.
